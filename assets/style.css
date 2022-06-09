@@ -193,10 +193,6 @@ body._active {
 .first-screen__player {
 	margin-top: 52px;
 }
-.first-screen__player img {
-	margin-top: 52px;
-}
-
 .first-screen__cards {
 	margin-top: 140px;
 }
@@ -772,10 +768,10 @@ body._active {
 
 }
 
-.player {}
+.player {
+}
 
 .player img {
-	height: 100%;
 	width: 100%;
 }
 
