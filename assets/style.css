@@ -193,6 +193,9 @@ body._active {
 .first-screen__player {
 	margin-top: 52px;
 }
+.first-screen__player img {
+	margin-top: 52px;
+}
 
 .first-screen__cards {
 	margin-top: 140px;
